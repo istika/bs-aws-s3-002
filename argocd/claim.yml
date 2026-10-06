@@ -1,7 +1,7 @@
 apiVersion: web.example.org/v1alpha1
 kind: StaticWebsite
 metadata:
-  name: my-hello-world-site
+  name: my-hello-world-site-002
   namespace: default
   annotations:
     argocd.argoproj.io/sync-wave: "2"
